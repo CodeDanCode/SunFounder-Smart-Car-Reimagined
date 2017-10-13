@@ -8,3 +8,5 @@ Ive edited some of the original code to be able to use the SmartCar without WiFi
 with a playstion3 controller.
 
 This project requires you to run pygame to be able to use it with a controller.
+
+I also eliminated the video camera due to the fact that you need an internet connection to view it (im working on a altenative solution).
